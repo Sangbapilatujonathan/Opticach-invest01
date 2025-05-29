@@ -4,13 +4,15 @@ layout: default
 title: Accueil
 ---
 
-Bienvenue sur OptiCach Invest
+Bienvenue sur OptiCach
 
-Bienvenue sur notre plateforme d'investissement intelligent.  
-Explorez nos services et commencez à investir dès aujourd'hui !
+OptiCach est une plateforme innovante d’investissement intelligent.  
+Créez un compte, suivez vos gains, et profitez de nombreuses fonctionnalités :
 
-Nos services
+- Tableau de bord personnalisé  
+- Historique des transactions  
+- Retraits via Mobile Money  
+- Notifications en temps réel  
+- Parrainage avec récompense  
 
-- Investissement rapide  
-- Suivi de portefeuille  
-- Retraits sécurisés  
+[Créer un compte](register.html) | [Se connecter](login.html)
